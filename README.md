@@ -17,6 +17,4 @@
 
 ## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/adirofir123/JavaScript_Shape_Generator.git
+- Use the link in the Word file
